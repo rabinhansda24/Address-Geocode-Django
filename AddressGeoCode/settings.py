@@ -125,4 +125,4 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 # Google API key
-GOOGLE_API_KEY = 'AIzaSyCxcwTF-jcBUXI-gjARstcE0svMe5c7pnE'
+GOOGLE_API_KEY = 'REPLACE_GOOGLE_API_KEY'
